@@ -41,14 +41,14 @@ Transcrição automatica do que é digitado nos input's.
 Verificação das inciais dos cartões com expressão regular, para alteração automatica da banceira
 Visa -> Incia com o digito 4
 Mastercard -> Inica com o digito 2 ou 5
-Elo -> Inicia com o digito 6
+Elo -> Inicia com o digito 6 -> (Funcionalidade acrescentada ao projeto como desafio para testar conhecimentos)
 Default -> Restante das opções
 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-Você pode visualizar a pagina online clicando <a href="https://explorer-lab-credit-card.vercel.app/ ">aqui</a>
+Você pode visualizar a pagina online clicando <a href="https://explorer-lab-credit-card.vercel.app/ " target="_blank" >aqui</a>
 
 ## :memo: Licença
 
