@@ -39,10 +39,10 @@ As funcionalidades desenvolvidas na aplicação foram:
 Transcrição automatica do que é digitado nos input's.
 
 Verificação das inciais dos cartões com expressão regular, para alteração automatica da banceira
-Visa -> Incia com o digito 4
-Mastercard -> Inica com o digito 2 ou 5
-Elo -> Inicia com o digito 6 -> (Funcionalidade acrescentada ao projeto como desafio para testar conhecimentos)
-Default -> Restante das opções
+Visa -> Incia com o digito 4.
+Mastercard -> Inica com o digito 2 ou 5.
+Elo -> Inicia com o digito 6 -> (Funcionalidade acrescentada ao projeto como desafio para testar conhecimentos).
+Default -> Restante das opções.
 
 ## 🔖 Layout
 
