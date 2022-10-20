@@ -35,11 +35,20 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 
+As funcionalidades desenvolvidas na aplicação foram:
+Transcrição automatica do que é digitado nos input's.
+
+Verificação das inciais dos cartões com expressão regular, para alteração automatica da banceira
+Visa -> Incia com o digito 4
+Mastercard -> Inica com o digito 2 ou 5
+Elo -> Inicia com o digito 6
+Default -> Restante das opções
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-Você pode visualizar a pagina online através deste link: https://explorer-lab-credit-card.vercel.app/ 
+Você pode visualizar a pagina online clicando <a href="https://explorer-lab-credit-card.vercel.app/ ">aqui</a>
 
 ## :memo: Licença
 
